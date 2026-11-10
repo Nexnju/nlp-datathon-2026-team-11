@@ -1,0 +1,101 @@
+record_id,language,text,label,source_dataset,source_version,source_record_id,source_url,source_method,licence_or_permission,contributor_code,reviewer_code,review_status,group_id,split
+T11-201	luo	Duoko mar penj biro dwe mabiro	neutral	team_authored	v1	T11-201	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-201	train
+T11-202	luo	Bajet ibiro lando	neutral	team_authored	v1	T11-202	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-202	train
+T11-203	luo	Mor kod kuyo duto ne obiro kanyachiel.	neutral	team_authored	v1	T11-203	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-203	train
+T11-204	luo	Sindh thothne nigi kinde ariyo	neutral	team_authored	v1	T11-204	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-204	train
+T11-205	luo	Weche mag kor Iwasi lokore	neutral	team_authored	v1	T11-205	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-205	train
+T11-206	luo	Ne amadho chai	neutral	team_authored	v1	T11-206	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-206	train
+T11-207	luo	Oganda ma piny Pakistan omedore medore	neutral	team_authored	v1	T11-207	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-207	train
+T11-208	luo	Pakistan nigi provins ang'wen	neutral	team_authored	v1	T11-208	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-208	train
+T11-209	luo	Od polisi ni machiegni gi chiro	neutral	team_authored	v1	T11-209	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-209	train
+T11-210	luo	Nyithindo ne dhi e sikul	neutral	team_authored	v1	T11-210	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-210	train
+T11-211	luo	Osiptal oyabere saa aboro okinyi	neutral	team_authored	v1	T11-211	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-211	train
+T11-212	luo	Ne omiye laptop mondo olos	neutral	team_authored	v1	T11-212	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-212	train
+T11-213	luo	An gi romo gi laktar	neutral	team_authored	v1	T11-213	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-213	train
+T11-214	luo	Nitie trafik mang'eny e boma	neutral	team_authored	v1	T11-214	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-214	train
+T11-215	luo	Ne opuonjore chike mag dho Sindhi	neutral	team_authored	v1	T11-215	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-215	train
+T11-216	luo	Oboke mar Komiti mar Yiero nobiro	neutral	team_authored	v1	T11-216	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-216	train
+T11-217	luo	Masinde manyien osechopo e osiptal	neutral	team_authored	v1	T11-217	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-217	train
+T11-218	luo	Petrol mar nyamburko chiegni rumo	neutral	team_authored	v1	T11-218	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-218	train
+T11-219	luo	Chieng' yweyo mar skul en chieng' mar auchiel	neutral	team_authored	v1	T11-219	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-219	train
+T11-220	luo	Intanet ng'eny ahinya kawuono	neutral	team_authored	v1	T11-220	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-220	train
+T11-221	luo	Jotich piero abich tiyo e kambino	neutral	team_authored	v1	T11-221	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-221	train
+T11-222	luo	Tich mar gero yo manyien osechako	neutral	team_authored	v1	T11-222	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-222	train
+T11-223	luo	Kaluwore kod ripot mar kor Iwasi, koth biro chwe kiny	neutral	team_authored	v1	T11-223	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-223	train
+T11-224	luo	Bajet manyien ibiro nyis e odiechieng' Jumapil	neutral	team_authored	v1	T11-224	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-224	train
+T11-225	luo	Ne ayudo bugno e od somo	neutral	team_authored	v1	T11-225	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-225	train
+T11-226	luo	Nitie buge gana gi gana e od somo	neutral	team_authored	v1	T11-226	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-226	train
+T11-227	luo	Otno iloso	neutral	team_authored	v1	T11-227	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-227	train
+T11-228	luo	Chokruok biro bedo saa apar gi ariyo odiochieng'	neutral	team_authored	v1	T11-228	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-228	train
+T11-229	luo	Saa mar ofis en saa aboro okinyi	neutral	team_authored	v1	T11-229	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-229	train
+T11-230	luo	Saa mar bas en saa abiriyo okinyi	neutral	team_authored	v1	T11-230	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-230	train
+T11-231	luo	Nyithindo gana gi gana abich somo e yunivasiti	neutral	team_authored	v1	T11-231	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-231	train
+T11-232	luo	Yiero en dwe mabiro	neutral	team_authored	v1	T11-232	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-232	train
+T11-233	luo	Nitie jopuonjre piero ariyo e klas	neutral	team_authored	v1	T11-233	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-233	train
+T11-234	luo	Nyathino ne iluongo ni Ali.	neutral	team_authored	v1	T11-234	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-234	train
+T11-235	luo	Filim manyien inyiso e sinema	neutral	team_authored	v1	T11-235	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-235	train
+T11-236	luo	Kawuono en jumapil	neutral	team_authored	v1	T11-236	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-236	train
+T11-237	luo	Loso ot chakore kawuono	neutral	team_authored	v1	T11-237	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-237	train
+T11-238	luo	Bill mar pi nyaka chuli	neutral	team_authored	v1	T11-238	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-238	train
+T11-239	luo	Dokta nowacho ni onego amadh yath	neutral	team_authored	v1	T11-239	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-239	train
+T11-240	luo	Bazar pod oyaw nyaka otieko dwe mar Ramadhan	neutral	team_authored	v1	T11-240	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-240	train
+T11-241	luo	Yo ne olor	neutral	team_authored	v1	T11-241	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-241	train
+T11-242	luo	Pi mantie e aora osedok piny	neutral	team_authored	v1	T11-242	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-242	train
+T11-243	luo	Gach okolo nochopo e saa mowinjore	neutral	team_authored	v1	T11-243	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-243	train
+T11-244	luo	Ne nitie klas e skul kawuono	neutral	team_authored	v1	T11-244	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-244	train
+T11-245	luo	Nitie aora adek madongo e piny Sindh.	neutral	team_authored	v1	T11-245	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-245	train
+T11-246	luo	Gach okolo wuok Karachi nyaka Lahore	neutral	team_authored	v1	T11-246	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-246	train
+T11-247	luo	Afis mar sirkal ni mabor gi ot mara	neutral	team_authored	v1	T11-247	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-247	train
+T11-248	luo	Ogandawa ni e boma machon	neutral	team_authored	v1	T11-248	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-248	train
+T11-249	luo	Nitie mier mang'eny machon e piny Sindh.	neutral	team_authored	v1	T11-249	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-249	train
+T11-250	luo	Dho Sindhi indiko e dho Arabu	neutral	team_authored	v1	T11-250	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-250	train
+T11-251	luo	Pakistan yudo thuolo en tarik apar gi ang'wen dwe mar aboro	neutral	team_authored	v1	T11-251	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-251	train
+T11-252	luo	Chiro mar alode oyabere okinyi mang'ich	neutral	team_authored	v1	T11-252	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-252	train
+T11-253	luo	Bengi olor kawuono	neutral	team_authored	v1	T11-253	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-253	train
+T11-254	luo	Chik manyien oseket e tim	neutral	team_authored	v1	T11-254	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-254	train
+T11-255	luo	Oboke mar thieth omedore e bajet	neutral	team_authored	v1	T11-255	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-255	train
+T11-256	luo	Chokruok notero seche ariyo	neutral	team_authored	v1	T11-256	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-256	train
+T11-257	luo	Boma maduong' mar Sindh en Karachi	neutral	team_authored	v1	T11-257	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-257	train
+T11-258	luo	Sukuru marwa ni e kind boma	neutral	team_authored	v1	T11-258	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-258	train
+T11-259	luo	Oboke mar dho Sindhi igoyo gaset pile ka pile	neutral	team_authored	v1	T11-259	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-259	train
+T11-260	luo	Dokta nowacho ni yueyo kuom ndalo adek	neutral	team_authored	v1	T11-260	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-260	train
+T11-261	luo	Kwan mar oganda ma Sindh ipimo	neutral	team_authored	v1	T11-261	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-261	dev
+T11-262	luo	Ne nitie ji mang'eny e chiro.	neutral	team_authored	v1	T11-262	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-262	dev
+T11-263	luo	Ne ochopo of saa adek	neutral	team_authored	v1	T11-263	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-263	dev
+T11-264	luo	Betri mar simu orumo	neutral	team_authored	v1	T11-264	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-264	dev
+T11-265	luo	Ne wawuoyo e simu	neutral	team_authored	v1	T11-265	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-265	dev
+T11-266	luo	Pidho kodhi itimo	neutral	team_authored	v1	T11-266	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-266	dev
+T11-267	luo	Gik manyien osechopo e chiro	neutral	team_authored	v1	T11-267	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-267	dev
+T11-268	luo	Higa manyien osechako	neutral	team_authored	v1	T11-268	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-268	dev
+T11-269	luo	Pesa norumo to luor ne pod odong'	neutral	team_authored	v1	T11-269	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-269	dev
+T11-270	luo	Kawuono en jumapil	neutral	team_authored	v1	T11-270	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-270	dev
+T11-271	luo	Som gaset	neutral	team_authored	v1	T11-271	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-271	dev
+T11-272	luo	Kabedo marwa ni e boma mar Karachi	neutral	team_authored	v1	T11-272	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-272	dev
+T11-273	luo	Jotich piero abich tiyo e kambino	neutral	team_authored	v1	T11-273	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-273	dev
+T11-274	luo	Ogandawa ni e boma machon	neutral	team_authored	v1	T11-274	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-274	dev
+T11-275	luo	Gach okolo wuok Karachi nyaka Lahore	neutral	team_authored	v1	T11-275	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-275	dev
+T11-276	luo	Otno iloso	neutral	team_authored	v1	T11-276	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-276	dev
+T11-277	luo	Filim manyien inyiso e sinema	neutral	team_authored	v1	T11-277	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-277	dev
+T11-278	luo	Nyithindo ne dhi e sikul	neutral	team_authored	v1	T11-278	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-278	dev
+T11-279	luo	Tich mar gero yo manyien osechako	neutral	team_authored	v1	T11-279	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-279	dev
+T11-280	luo	Pesa norumo to luor ne pod odong'	neutral	team_authored	v1	T11-280	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-280	dev
+T11-281	luo	Yiero en dwe mabiro	neutral	team_authored	v1	T11-281	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-281	test
+T11-282	luo	Jotich piero abich tiyo e kambino	neutral	team_authored	v1	T11-282	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-282	test
+T11-283	luo	Dokta nowacho ni yueyo kuom ndalo adek	neutral	team_authored	v1	T11-283	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-283	test
+T11-284	luo	Nitie mier mang'eny machon e piny Sindh.	neutral	team_authored	v1	T11-284	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-284	test
+T11-285	luo	Filim manyien inyiso e sinema	neutral	team_authored	v1	T11-285	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-285	test
+T11-286	luo	Kabedo marwa ni e boma mar Karachi	neutral	team_authored	v1	T11-286	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-286	test
+T11-287	luo	Saa mar ofis en saa aboro okinyi	neutral	team_authored	v1	T11-287	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-287	test
+T11-288	luo	Pi mantie e aora osedok piny	neutral	team_authored	v1	T11-288	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-288	test
+T11-289	luo	Pakistan nigi provins ang'wen	neutral	team_authored	v1	T11-289	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-289	test
+T11-290	luo	Saa mar bas en saa abiriyo okinyi	neutral	team_authored	v1	T11-290	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-290	test
+T11-291	luo	Weche mag kor Iwasi lokore	neutral	team_authored	v1	T11-291	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-291	test
+T11-292	luo	Yo ne olor	neutral	team_authored	v1	T11-292	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-292	test
+T11-293	luo	Chiro mar alode oyabere okinyi mang'ich	neutral	team_authored	v1	T11-293	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-293	test
+T11-294	luo	Filim manyien inyiso e sinema	neutral	team_authored	v1	T11-294	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-294	test
+T11-295	luo	Od polisi ni machiegni gi chiro	neutral	team_authored	v1	T11-295	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-295	test
+T11-296	luo	Chokruok biro bedo saa apar gi ariyo odiochieng'	neutral	team_authored	v1	T11-296	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-296	test
+T11-297	luo	Yo ne olor	neutral	team_authored	v1	T11-297	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-297	test
+T11-298	luo	Chokruok biro bedo saa apar gi ariyo odiochieng'	neutral	team_authored	v1	T11-298	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-298	test
+T11-299	luo	Betri mar simu orumo	neutral	team_authored	v1	T11-299	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-299	test
+T11-300	luo	Pakistan yudo thuolo en tarik apar gi ang'wen dwe mar aboro	neutral	team_authored	v1	T11-300	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-300	test
