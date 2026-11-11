@@ -1,0 +1,10 @@
+{
+    "unique_records": 255,
+    "training_records": 178,
+    "development_records": 38,
+    "testing_records": 39,
+    "test_accuracy": 0.8717948717948718,
+    "test_macro_f1": 0.873970473970474,
+    "majority_baseline_accuracy": 0.38461538461538464,
+    "majority_baseline_macro_f1": 0.1851851851851852
+}

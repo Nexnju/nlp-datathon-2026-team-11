@@ -7,8 +7,18 @@ st.title('African-language NLP Demo')
 track=st.selectbox('Task',['intent','sentiment','semantic'])
 path=Path('artifacts')/track/'model.joblib'
 if not path.exists():st.info('Train this task first; see NEXT_STEPS.md.');st.stop()
-pack=joblib.load(path) # Only load model files you created and trust.
-if pack['practice']:st.warning('PRACTICE MODE: constructed English teaching examples. Scores do not establish real-world quality.')
+pack=joblib.load(path)
+
+if pack['practice']:
+    st.warning('PRACTICE MODE: constructed English teaching examples.')
+
+if pack.get('experimental'):
+    st.warning(
+        'EXPERIMENTAL DHOLUO MODEL: This model uses machine-translated '
+        'data with incomplete human review. Predictions are preliminary '
+        'and have not been validated as competition results.'
+    )
+
 st.write('Language:',pack['language'])
 text=st.text_area('Enter text in the model language')
 if st.button('Predict'):

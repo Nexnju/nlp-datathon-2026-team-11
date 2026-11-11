@@ -1,0 +1,84 @@
+Record Id,Text,Label,Split,Group Id,number_of_splits,normalised_text
+T11-264,Betri mar simu orumo,neutral,dev,T11-grp-264,2,betri mar simu orumo
+T11-299,Betri mar simu orumo,neutral,test,T11-grp-299,2,betri mar simu orumo
+T11-293,Chiro mar alode oyabere okinyi mang'ich,neutral,test,T11-grp-293,2,chiro mar alode oyabere okinyi mang'ich
+T11-252,Chiro mar alode oyabere okinyi mang'ich,neutral,train,T11-grp-252,2,chiro mar alode oyabere okinyi mang'ich
+T11-296,Chokruok biro bedo saa apar gi ariyo odiochieng',neutral,test,T11-grp-296,2,chokruok biro bedo saa apar gi ariyo odiochieng'
+T11-298,Chokruok biro bedo saa apar gi ariyo odiochieng',neutral,test,T11-grp-298,2,chokruok biro bedo saa apar gi ariyo odiochieng'
+T11-228,Chokruok biro bedo saa apar gi ariyo odiochieng',neutral,train,T11-grp-228,2,chokruok biro bedo saa apar gi ariyo odiochieng'
+T11-190,Chudo ok yudre kuom dweche mang'eny,negative,test,T11-grp-190,2,chudo ok yudre kuom dweche mang'eny
+T11-152,Chudo ok yudre kuom dweche mang'eny,negative,train,T11-grp-152,2,chudo ok yudre kuom dweche mang'eny
+T11-283,Dokta nowacho ni yueyo kuom ndalo adek,neutral,test,T11-grp-283,2,dokta nowacho ni yueyo kuom ndalo adek
+T11-260,Dokta nowacho ni yueyo kuom ndalo adek,neutral,train,T11-grp-260,2,dokta nowacho ni yueyo kuom ndalo adek
+T11-277,Filim manyien inyiso e sinema,neutral,dev,T11-grp-277,3,filim manyien inyiso e sinema
+T11-285,Filim manyien inyiso e sinema,neutral,test,T11-grp-285,3,filim manyien inyiso e sinema
+T11-294,Filim manyien inyiso e sinema,neutral,test,T11-grp-294,3,filim manyien inyiso e sinema
+T11-235,Filim manyien inyiso e sinema,neutral,train,T11-grp-235,3,filim manyien inyiso e sinema
+T11-275,Gach okolo wuok Karachi nyaka Lahore,neutral,dev,T11-grp-275,2,gach okolo wuok karachi nyaka lahore
+T11-246,Gach okolo wuok Karachi nyaka Lahore,neutral,train,T11-grp-246,2,gach okolo wuok karachi nyaka lahore
+T11-164,Gik mapidho ne okethore e piny otuo,negative,dev,T11-grp-164,2,gik mapidho ne okethore e piny otuo
+T11-198,Gik mapidho ne okethore e piny otuo,negative,test,T11-grp-198,2,gik mapidho ne okethore e piny otuo
+T11-273,Jotich piero abich tiyo e kambino,neutral,dev,T11-grp-273,3,jotich piero abich tiyo e kambino
+T11-282,Jotich piero abich tiyo e kambino,neutral,test,T11-grp-282,3,jotich piero abich tiyo e kambino
+T11-221,Jotich piero abich tiyo e kambino,neutral,train,T11-grp-221,3,jotich piero abich tiyo e kambino
+T11-272,Kabedo marwa ni e boma mar Karachi,neutral,dev,T11-grp-272,2,kabedo marwa ni e boma mar karachi
+T11-286,Kabedo marwa ni e boma mar Karachi,neutral,test,T11-grp-286,2,kabedo marwa ni e boma mar karachi
+T11-270,Kawuono en jumapil,neutral,dev,T11-grp-270,2,kawuono en jumapil
+T11-236,Kawuono en jumapil,neutral,train,T11-grp-236,2,kawuono en jumapil
+T11-184,Ne an gi ywak gi jiranda,negative,test,T11-grp-184,1,ne an gi ywak gi jiranda
+T11-197,Ne an gi ywak gi jiranda,negative,test,T11-grp-197,1,ne an gi ywak gi jiranda
+T11-193,Ne atiyo matek to onge duoko mane obiro,negative,test,T11-grp-193,2,ne atiyo matek to onge duoko mane obiro
+T11-196,Ne atiyo matek to onge duoko mane obiro,negative,test,T11-grp-196,2,ne atiyo matek to onge duoko mane obiro
+T11-128,Ne atiyo matek to onge duoko mane obiro,negative,train,T11-grp-128,2,ne atiyo matek to onge duoko mane obiro
+T11-188,Ne ayudo hera to bende ne ayudo ketho,negative,test,T11-grp-188,2,ne ayudo hera to bende ne ayudo ketho
+T11-105,Ne ayudo hera to bende ne ayudo ketho,negative,train,T11-grp-105,2,ne ayudo hera to bende ne ayudo ketho
+T11-173,Ne nitie Iweny e ot,negative,dev,T11-grp-173,2,ne nitie iweny e ot
+T11-194,Ne nitie Iweny e ot,negative,test,T11-grp-194,2,ne nitie iweny e ot
+T11-192,"Ne ogeno ji ma ok kare, ne awinjo marach",negative,test,T11-grp-192,2,"ne ogeno ji ma ok kare, ne awinjo marach"
+T11-109,"Ne ogeno ji ma ok kare, ne awinjo marach",negative,train,T11-grp-109,2,"ne ogeno ji ma ok kare, ne awinjo marach"
+T11-284,Nitie mier mang'eny machon e piny Sindh.,neutral,test,T11-grp-284,2,nitie mier mang'eny machon e piny sindh.
+T11-249,Nitie mier mang'eny machon e piny Sindh.,neutral,train,T11-grp-249,2,nitie mier mang'eny machon e piny sindh.
+T11-278,Nyithindo ne dhi e sikul,neutral,dev,T11-grp-278,2,nyithindo ne dhi e sikul
+T11-210,Nyithindo ne dhi e sikul,neutral,train,T11-grp-210,2,nyithindo ne dhi e sikul
+T11-199,Nyithindo ok yudo somo nikech onge japuonj,negative,test,T11-grp-199,2,nyithindo ok yudo somo nikech onge japuonj
+T11-151,Nyithindo ok yudo somo nikech onge japuonj,negative,train,T11-grp-151,2,nyithindo ok yudo somo nikech onge japuonj
+T11-295,Od polisi ni machiegni gi chiro,neutral,test,T11-grp-295,2,od polisi ni machiegni gi chiro
+T11-209,Od polisi ni machiegni gi chiro,neutral,train,T11-grp-209,2,od polisi ni machiegni gi chiro
+T11-274,Ogandawa ni e boma machon,neutral,dev,T11-grp-274,2,ogandawa ni e boma machon
+T11-248,Ogandawa ni e boma machon,neutral,train,T11-grp-248,2,ogandawa ni e boma machon
+T11-185,Ok anyal ting'o lit mar pogruok,negative,test,T11-grp-185,2,ok anyal ting'o lit mar pogruok
+T11-142,Ok anyal ting'o lit mar pogruok,negative,train,T11-grp-142,2,ok anyal ting'o lit mar pogruok
+T11-186,Ok nyal wuok ot nikech tuo,negative,test,T11-grp-186,2,ok nyal wuok ot nikech tuo
+T11-108,Ok nyal wuok ot nikech tuo,negative,train,T11-grp-108,2,ok nyal wuok ot nikech tuo
+T11-191,Onge gima winjo maber e paro mang'eny,negative,test,T11-grp-191,2,onge gima winjo maber e paro mang'eny
+T11-135,Onge gima winjo maber e paro mang'eny,negative,train,T11-grp-135,2,onge gima winjo maber e paro mang'eny
+T11-276,Otno iloso,neutral,dev,T11-grp-276,2,otno iloso
+T11-227,Otno iloso,neutral,train,T11-grp-227,2,otno iloso
+T11-189,Owadwa ne obedo gi ich wang',negative,test,T11-grp-189,2,owadwa ne obedo gi ich wang'
+T11-195,Owadwa ne obedo gi ich wang',negative,test,T11-grp-195,2,owadwa ne obedo gi ich wang'
+T11-141,Owadwa ne obedo gi ich wang',negative,train,T11-grp-141,2,owadwa ne obedo gi ich wang'
+T11-289,Pakistan nigi provins ang'wen,neutral,test,T11-grp-289,2,pakistan nigi provins ang'wen
+T11-208,Pakistan nigi provins ang'wen,neutral,train,T11-grp-208,2,pakistan nigi provins ang'wen
+T11-300,Pakistan yudo thuolo en tarik apar gi ang'wen dwe mar aboro,neutral,test,T11-grp-300,2,pakistan yudo thuolo en tarik apar gi ang'wen dwe mar aboro
+T11-251,Pakistan yudo thuolo en tarik apar gi ang'wen dwe mar aboro,neutral,train,T11-grp-251,2,pakistan yudo thuolo en tarik apar gi ang'wen dwe mar aboro
+T11-269,Pesa norumo to luor ne pod odong',neutral,dev,T11-grp-269,1,pesa norumo to luor ne pod odong'
+T11-280,Pesa norumo to luor ne pod odong',neutral,dev,T11-grp-280,1,pesa norumo to luor ne pod odong'
+T11-183,Pi mang'eny nobiro e gweng'no,negative,test,T11-grp-183,1,pi mang'eny nobiro e gweng'no
+T11-200,Pi mang'eny nobiro e gweng'no,negative,test,T11-grp-200,1,pi mang'eny nobiro e gweng'no
+T11-288,Pi mantie e aora osedok piny,neutral,test,T11-grp-288,2,pi mantie e aora osedok piny
+T11-242,Pi mantie e aora osedok piny,neutral,train,T11-grp-242,2,pi mantie e aora osedok piny
+T11-290,Saa mar bas en saa abiriyo okinyi,neutral,test,T11-grp-290,2,saa mar bas en saa abiriyo okinyi
+T11-230,Saa mar bas en saa abiriyo okinyi,neutral,train,T11-grp-230,2,saa mar bas en saa abiriyo okinyi
+T11-287,Saa mar ofis en saa aboro okinyi,neutral,test,T11-grp-287,2,saa mar ofis en saa aboro okinyi
+T11-229,Saa mar ofis en saa aboro okinyi,neutral,train,T11-grp-229,2,saa mar ofis en saa aboro okinyi
+T11-279,Tich mar gero yo manyien osechako,neutral,dev,T11-grp-279,2,tich mar gero yo manyien osechako
+T11-222,Tich mar gero yo manyien osechako,neutral,train,T11-grp-222,2,tich mar gero yo manyien osechako
+T11-187,Wang'e ne odong' ma oyabere otieno duto,negative,test,T11-grp-187,2,wang'e ne odong' ma oyabere otieno duto
+T11-130,Wang'e ne odong' ma oyabere otieno duto,negative,train,T11-grp-130,2,wang'e ne odong' ma oyabere otieno duto
+T11-291,Weche mag kor Iwasi lokore,neutral,test,T11-grp-291,2,weche mag kor iwasi lokore
+T11-205,Weche mag kor Iwasi lokore,neutral,train,T11-grp-205,2,weche mag kor iwasi lokore
+T11-281,Yiero en dwe mabiro,neutral,test,T11-grp-281,2,yiero en dwe mabiro
+T11-232,Yiero en dwe mabiro,neutral,train,T11-grp-232,2,yiero en dwe mabiro
+T11-292,Yo ne olor,neutral,test,T11-grp-292,2,yo ne olor
+T11-297,Yo ne olor,neutral,test,T11-grp-297,2,yo ne olor
+T11-241,Yo ne olor,neutral,train,T11-grp-241,2,yo ne olor
