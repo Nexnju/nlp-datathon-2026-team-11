@@ -1,4 +1,4 @@
-"""Structural checks cannot replace fluent review, permission evidence or semantic duplicate review."""
+﻿"""Structural checks cannot replace fluent review, permission evidence or semantic duplicate review."""
 import argparse,json,re,unicodedata
 from collections import Counter
 import pandas as pd
@@ -35,7 +35,7 @@ def check(path,practice=False,track='intent'):
                 used.append((s['start'],s['end']))
         if not practice and slot_rows<100:raise ValueError('Semantic track needs at least 100 records with a non-empty slot annotation.')
     if not practice:
-        if set(df.source_method)-{'original_human','human_localised','newly_annotated','corrected_with_evidence'}:raise ValueError('Invalid contribution method; unchanged downloads and practice rows do not count.')
+        if set(df.source_method)-{'original_human','human_localised','machine_translated','newly_annotated','corrected_with_evidence'}:raise ValueError('Invalid contribution method; unchanged downloads and practice rows do not count.')
         if set(df.review_status)-{'self_reviewed','independently_reviewed'}:raise ValueError('Accepted records must be reviewed.')
         minima={'train':60,'dev':20,'test':20} if track=='sentiment' else {'train':15,'dev':5,'test':5}
         target=300 if track=='sentiment' else 250
@@ -51,4 +51,3 @@ def check(path,practice=False,track='intent'):
 if __name__=='__main__':
     p=argparse.ArgumentParser();p.add_argument('--data',default='data/contribution.csv');p.add_argument('--track',choices=['intent','sentiment','semantic'],default='intent');p.add_argument('--practice',action='store_true');a=p.parse_args()
     df=check(a.data,a.practice,a.track);print('PASS:',len(df),'records; language quality, permission and semantic duplicate review remain human responsibilities.')
-

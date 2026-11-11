@@ -5,3 +5,11 @@ __pycache__/
 data/raw/
 .env
 secrets.toml
+.venv/
+.venv313/
+__pycache__/
+*.pyc
+*.joblib
+data/raw/
+.env
+secrets.toml
