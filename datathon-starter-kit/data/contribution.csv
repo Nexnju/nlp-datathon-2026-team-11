@@ -99,3 +99,104 @@ T11-297	luo	Yo ne olor	neutral	team_authored	v1	T11-297	not_applicable	original_
 T11-298	luo	Chokruok biro bedo saa apar gi ariyo odiochieng'	neutral	team_authored	v1	T11-298	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-298	test
 T11-299	luo	Betri mar simu orumo	neutral	team_authored	v1	T11-299	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-299	test
 T11-300	luo	Pakistan yudo thuolo en tarik apar gi ang'wen dwe mar aboro	neutral	team_authored	v1	T11-300	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-300	test
+
+T11-101	luo	Kuo notimore, gik moko mag ot nodhi	negative	team_authored	v1	T11-101	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-101	train
+T11-102	luo	Ne amanyo tich kuom dweche mang'eny to ne ok ayudo gimoro	negative	team_authored	v1	T11-102	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-102	train
+T11-103	luo	Owinjo marach ne obiro e ngima	negative	team_authored	v1	T11-103	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-103	train
+T11-104	luo	Ne ok anyal nindo otieno duto	negative	team_authored	v1	T11-104	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-104	train
+T11-105	luo	Ne ayudo hera to bende ne ayudo ketho	negative	team_authored	v1	T11-105	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-105	train
+T11-106	luo	Chulo rent mar ot osebedo matek	negative	team_authored	v1	T11-106	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-106	train
+T11-107	luo	Bedo kende chamo ng'ato kowuok e iye	negative	team_authored	v1	T11-107	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-107	train
+T11-108	luo	Ok nyal wuok ot nikech tuo	negative	team_authored	v1	T11-108	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-108	train
+T11-109	luo	Ne ogeno ji ma ok kare, ne awinjo marach	negative	team_authored	v1	T11-109	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-109	train
+T11-110	luo	Ne okawo yiero marach	negative	team_authored	v1	T11-110	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-110	train
+T11-111	luo	Ne otimo kinda mang'eny to duoko ne en noro	negative	team_authored	v1	T11-111	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-111	train
+T11-112	luo	Odiechieng' nokalo e mudho nikech ne onge stima	negative	team_authored	v1	T11-112	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-112	train
+T11-113	luo	Geno norumo	negative	team_authored	v1	T11-113	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-113	train
+T11-114	luo	Lit mar dak mabor gi piny owuokie en gima opogore opogore	negative	team_authored	v1	T11-114	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-114	train
+T11-115	luo	Tudruokno ne okethore	negative	team_authored	v1	T11-115	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-115	train
+T11-116	luo	Tich matek nodhi nono	negative	team_authored	v1	T11-116	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-116	train
+T11-117	luo	Ng'at modhier onge ng'ama	negative	team_authored	v1	T11-117	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-117	train
+T11-118	luo	Seche moko e ngima nitie mudho kende.	negative	team_authored	v1	T11-118	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-118	train
+T11-119	luo	Onge pi, chandruok maduong'	negative	team_authored	v1	T11-119	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-119	train
+T11-120	luo	Nyathi nodong' chien e penj	negative	team_authored	v1	T11-120	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-120	train
+T11-121	luo	Pogore gi jogo mawahero ketho chuny	negative	team_authored	v1	T11-121	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-121	train
+T11-122	luo	Nyathi tuo, chunye en gi parruok	negative	team_authored	v1	T11-122	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-122	train
+T11-123	luo	Gik moko duto ne okethore e oula.	negative	team_authored	v1	T11-123	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-123	train
+T11-124	luo	Nitie giko mar ng'ado bura kuom ng'anyo.	negative	team_authored	v1	T11-124	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-124	train
+T11-125	luo	Ne osingo to ne ok otimo sing'ono	negative	team_authored	v1	T11-125	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-125	train
+T11-126	luo	Chunya ywak ka oneno minwa tuo	negative	team_authored	v1	T11-126	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-126	train
+T11-127	luo	Ne ok akalo penj	negative	team_authored	v1	T11-127	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-127	train
+T11-128	luo	Ne atiyo matek to onge duoko mane obiro	negative	team_authored	v1	T11-128	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-128	train
+T11-129	luo	Osiepna nowuok to ibiro paro	negative	team_authored	v1	T11-129	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-129	train
+T11-130	luo	Wang'e ne odong' ma oyabere otieno duto	negative	team_authored	v1	T11-130	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-130	train
+T11-131	luo	Ne otim tím ma ok kare	negative	team_authored	v1	T11-131	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-131	train
+T11-132	luo	Chuny opong' gi pi wang' e seche ma wawuoyo	negative	team_authored	v1	T11-132	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-132	train
+T11-133	luo	Nyaka dak e chandruok	negative	team_authored	v1	T11-133	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-133	train
+T11-134	luo	Chuny ne okethore ka awinjo wach mar tho mar osiepna	negative	team_authored	v1	T11-134	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-134	train
+T11-135	luo	Onge gima winjo maber e paro mang'eny	negative	team_authored	v1	T11-135	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-135	train
+T11-136	luo	Ne oyudo ketho e ohala	negative	team_authored	v1	T11-136	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-136	train
+T11-137	luo	Wasigu ne omedore, osiepe ne odok piny	negative	team_authored	v1	T11-137	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-137	train
+T11-138	luo	Sindh yudo pek nikech ketho mar alwora	negative	team_authored	v1	T11-138	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-138	train
+T11-139	luo	Ne alalo tich mara	negative	team_authored	v1	T11-139	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-139	train
+T11-140	luo	Iwinjo ka in kendi	negative	team_authored	v1	T11-140	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-140	train
+T11-141	luo	Owadwa ne obedo gi ich wang'	negative	team_authored	v1	T11-141	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-141	train
+T11-142	luo	Ok anyal ting'o lit mar pogruok	negative	team_authored	v1	T11-142	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-142	train
+T11-143	luo	Gik ma opur ne okethore	negative	team_authored	v1	T11-143	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-143	train
+T11-144	luo	Nitie ng'at ma nigi pek e ot to onge ng'ato	negative	team_authored	v1	T11-144	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-144	train
+T11-145	luo	Nyaka dak mabor gi piny ma odongoe	negative	team_authored	v1	T11-145	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-145	train
+T11-146	luo	Baba notho	negative	team_authored	v1	T11-146	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-146	train
+T11-147	luo	Ngima marach ahinya	negative	team_authored	v1	T11-147	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-147	train
+T11-148	luo	Thieth mowinjore ok yudre e osiptal	negative	team_authored	v1	T11-148	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-148	train
+T11-149	luo	Tuwo mag adundo ema kelo pek mang'eny ahinya	negative	team_authored	v1	T11-149	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-149	train
+T11-150	luo	Odiechieng' nokalo e mudho nikech ler ma ne okethore	negative	team_authored	v1	T11-150	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-150	train
+T11-151	luo	Nyithindo ok yudo somo nikech onge japuonj	negative	team_authored	v1	T11-151	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-151	train
+T11-152	luo	Chudo ok yudre kuom dweche mang'eny	negative	team_authored	v1	T11-152	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-152	train
+T11-153	luo	Ywak mar joma oten ok dhi mana ma nono	negative	team_authored	v1	T11-153	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-153	train
+T11-154	luo	Paro ne ok otiyo otieno mar penj	negative	team_authored	v1	T11-154	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-154	train
+T11-155	luo	Chuny lit ahinya	negative	team_authored	v1	T11-155	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-155	train
+T11-156	luo	Joma tindo mag gwenge nodhi dak e boma	negative	team_authored	v1	T11-156	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-156	train
+T11-157	luo	Pesa ne orumo kendo onge ng'at ma ne nyalo konye.	negative	team_authored	v1	T11-157	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-157	train
+T11-158	luo	Aol ahinya kawuono	negative	team_authored	v1	T11-158	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-158	train
+T11-159	luo	Nyathi noweyo skul, chunye ne obedo matek	negative	team_authored	v1	T11-159	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-159	train
+T11-160	luo	Chuny goyo mapiyo sama oneno tim ma ok kare	negative	team_authored	v1	T11-160	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-160	train
+T11-161	luo	Tudruok ne okethore nikech ng'eyo marach	negative	team_authored	v1	T11-161	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-161	dev
+T11-162	luo	Ne an gi ywak e apis	negative	team_authored	v1	T11-162	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-162	dev
+T11-163	luo	Dho Sindhi ni e bwo luoro	negative	team_authored	v1	T11-163	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-163	dev
+T11-164	luo	Gik mapidho ne okethore e piny otuo	negative	team_authored	v1	T11-164	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-164	dev
+T11-165	luo	Nenore ni luoro ok bi rumo	negative	team_authored	v1	T11-165	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-165	dev
+T11-166	luo	Ogoyo minwa ahinya	negative	team_authored	v1	T11-166	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-166	dev
+T11-167	luo	Ne an gi geno maduong' to ne oyudo paro ma ok kare	negative	team_authored	v1	T11-167	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-167	dev
+T11-168	luo	Ka nindo ok obi ngima bedo masira	negative	team_authored	v1	T11-168	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-168	dev
+T11-169	luo	Ok nyal chulo pesa mag somo	negative	team_authored	v1	T11-169	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-169	dev
+T11-170	luo	Nyaka oling' kuom ng'anjo	negative	team_authored	v1	T11-170	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-170	dev
+T11-171	luo	Chulo pesa mag somo mar nyithindo en gima tek	negative	team_authored	v1	T11-171	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-171	dev
+T11-172	luo	Joma ng'anjo ok bi yudo kuwe nyaka chieng'	negative	team_authored	v1	T11-172	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-172	dev
+T11-173	luo	Ne nitie Iweny e ot	negative	team_authored	v1	T11-173	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-173	dev
+T11-174	luo	Nitie chandruok mar pi e gweng'	negative	team_authored	v1	T11-174	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-174	dev
+T11-175	luo	Ne owuondore e hera	negative	team_authored	v1	T11-175	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-175	dev
+T11-176	luo	Ng'ato nyaka ked mondo oyud ratiro mare	negative	team_authored	v1	T11-176	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-176	dev
+T11-177	luo	Bech mar bech osemedore ahinya	negative	team_authored	v1	T11-177	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-177	dev
+T11-178	luo	Onge ng'ama nowinjo	negative	team_authored	v1	T11-178	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-178	dev
+T11-179	luo	Onge ng'ama nokonyo	negative	team_authored	v1	T11-179	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-179	dev
+T11-180	luo	Lek nodong' ma ok ochopo kare	negative	team_authored	v1	T11-180	not_applicable	original_human	documented_contributor_permission	T11-A	T11-A	self_reviewed	T11-grp-180	dev
+T11-181	luo	Odiechieng' duto nokalo gi parruok	negative	team_authored	v1	T11-181	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-181	test
+T11-182	luo	Osiepna nowuondora	negative	team_authored	v1	T11-182	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-182	test
+T11-183	luo	Pi mang'eny nobiro e gweng'no	negative	team_authored	v1	T11-183	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-183	test
+T11-184	luo	Ne an gi ywak gi jiranda	negative	team_authored	v1	T11-184	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-184	test
+T11-185	luo	Ok anyal ting'o lit mar pogruok	negative	team_authored	v1	T11-185	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-185	test
+T11-186	luo	Ok nyal wuok ot nikech tuo	negative	team_authored	v1	T11-186	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-186	test
+T11-187	luo	Wang'e ne odong' ma oyabere otieno duto	negative	team_authored	v1	T11-187	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-187	test
+T11-188	luo	Ne ayudo hera to bende ne ayudo ketho	negative	team_authored	v1	T11-188	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-188	test
+T11-189	luo	Owadwa ne obedo gi ich wang'	negative	team_authored	v1	T11-189	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-189	test
+T11-190	luo	Chudo ok yudre kuom dweche mang'eny	negative	team_authored	v1	T11-190	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-190	test
+T11-191	luo	Onge gima winjo maber e paro mang'eny	negative	team_authored	v1	T11-191	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-191	test
+T11-192	luo	Ne ogeno ji ma ok kare, ne awinjo marach	negative	team_authored	v1	T11-192	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-192	test
+T11-193	luo	Ne atiyo matek to onge duoko mane obiro	negative	team_authored	v1	T11-193	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-193	test
+T11-194	luo	Ne nitie Iweny e ot	negative	team_authored	v1	T11-194	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-194	test
+T11-195	luo	Owadwa ne obedo gi ich wang'	negative	team_authored	v1	T11-195	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-195	test
+T11-196	luo	Ne atiyo matek to onge duoko mane obiro	negative	team_authored	v1	T11-196	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-196	test
+T11-197	luo	Ne an gi ywak gi jiranda	negative	team_authored	v1	T11-197	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-197	test
+T11-198	luo	Gik mapidho ne okethore e piny otuo	negative	team_authored	v1	T11-198	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-198	test
+T11-199	luo	Nyithindo ok yudo somo nikech onge japuonj	negative	team_authored	v1	T11-199	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-199	test
+T11-200	luo	Pi mang'eny nobiro e gweng'no	negative	team_authored	v1	T11-200	not_applicable	original_human	documented_contributor_permission	T11-A	T11-B	independently_reviewed	T11-grp-200	test
