@@ -12,10 +12,10 @@ from core import FRIENDLY, extract
 # --------------------------------------------------
 
 st.set_page_config(
-    page_title="Dholuo NLP Demo",
+    page_title="LuoSense | Dholuo sentiment",
     page_icon="🌍",
-    layout="centered",
-    initial_sidebar_state="expanded"
+    layout="wide",
+    initial_sidebar_state="collapsed"
 )
 
 
@@ -27,40 +27,113 @@ st.markdown(
     """
     <style>
         .block-container {
-            max-width: 900px;
-            padding-top: 2rem;
-            padding-bottom: 3rem;
+            max-width: 1120px;
+            padding-top: 2.2rem;
+            padding-bottom: 3.5rem;
+        }
+
+        .hero {
+            padding: 1.5rem 1.7rem;
+            border: 1px solid rgba(128, 128, 128, 0.22);
+            border-radius: 18px;
+            background: linear-gradient(
+                120deg,
+                rgba(16, 185, 129, 0.11),
+                rgba(59, 130, 246, 0.07)
+            );
+            margin-bottom: 1.4rem;
+        }
+
+        .eyebrow {
+            color: #10a37f;
+            font-size: 0.76rem;
+            font-weight: 750;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            margin-bottom: 0.55rem;
         }
 
         .main-heading {
-            font-size: 2.5rem;
-            font-weight: 750;
-            margin-bottom: 0.2rem;
+            font-size: clamp(2rem, 4vw, 3rem);
+            line-height: 1.12;
+            font-weight: 800;
+            margin-bottom: 0.45rem;
         }
 
         .subheading {
             color: #8b949e;
-            font-size: 1rem;
-            margin-bottom: 1.5rem;
+            font-size: 1.02rem;
+            line-height: 1.6;
+            max-width: 760px;
+            margin-bottom: 0.2rem;
         }
 
         .result-card {
-            padding: 1.4rem;
-            border-radius: 12px;
-            border: 1px solid rgba(128, 128, 128, 0.3);
+            padding: 1.5rem;
+            border-radius: 16px;
+            border: 1px solid rgba(128, 128, 128, 0.25);
+            border-left: 5px solid #0d9488;
+            background: rgba(13, 148, 136, 0.08);
             margin-top: 1rem;
             margin-bottom: 1rem;
         }
+        .result-card.positive {
+            border-left-color: #16a34a;
+            background: rgba(22, 163, 74, 0.09);
+        }
+        .result-card.negative {
+            border-left-color: #dc5252;
+            background: rgba(220, 82, 82, 0.09);
+        }
+        .result-card.neutral {
+            border-left-color: #64748b;
+            background: rgba(100, 116, 139, 0.09);
+        }
+        .sample-intro {
+            color: #8b949e;
+            font-size: 0.9rem;
+            margin-top: -0.35rem;
+            margin-bottom: 0.7rem;
+        }
 
         .result-label {
-            font-size: 1.7rem;
-            font-weight: 700;
-            margin-top: 0.3rem;
+            font-size: 2rem;
+            line-height: 1.2;
+            font-weight: 800;
+            margin-top: 0.35rem;
         }
 
         .small-note {
             color: #8b949e;
-            font-size: 0.85rem;
+            font-size: 0.82rem;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+        }
+
+        div.stButton > button[kind="primary"] {
+            min-height: 3rem;
+            border-radius: 10px;
+            font-weight: 700;
+        }
+
+        div[data-testid="stMetric"] {
+            padding: 0.8rem 0.9rem;
+            border: 1px solid rgba(128, 128, 128, 0.2);
+            border-radius: 12px;
+            background: rgba(128, 128, 128, 0.045);
+        }
+
+        div[data-testid="stTextArea"] textarea {
+            border-radius: 12px;
+        }
+
+        @media (max-width: 700px) {
+            .block-container {
+                padding-top: 1rem;
+            }
+            .hero {
+                padding: 1.1rem;
+            }
         }
     </style>
     """,
@@ -104,13 +177,14 @@ with st.sidebar:
 path = Path("artifacts") / track / "model.joblib"
 
 st.markdown(
-    '<div class="main-heading">African-language NLP Demo</div>',
-    unsafe_allow_html=True
-)
-
-st.markdown(
+    '<div class="hero">'
+    '<div class="eyebrow">NLP HUB DATATHON 2026 · TEAM 11</div>'
+    '<div class="main-heading">LuoSense</div>'
     '<div class="subheading">'
-    'Explore how an NLP model processes Dholuo language.'
+    'A closer look at the tone of Dholuo text. '
+    'Explore real sentences from our dataset or write your own to see '
+    'how the model interprets them.'
+    '</div>'
     '</div>',
     unsafe_allow_html=True
 )
@@ -139,36 +213,114 @@ if pack.get("practice", False):
         "teaching examples."
     )
 
-info_col1, info_col2 = st.columns(2)
-
-with info_col1:
-    st.metric("Language", pack.get("language", "Not specified"))
-
-with info_col2:
-    st.metric("NLP task", track.capitalize())
-
-st.divider()
+st.markdown(
+    '<div class="eyebrow" style="margin-top:-0.35rem;">DHOLUO · SENTIMENT EXPLORER</div>',
+    unsafe_allow_html=True
+)
 
 
 # --------------------------------------------------
 # INPUT SECTION
 # --------------------------------------------------
 
-st.subheader("Try the model")
+st.subheader("Explore Dholuo sentiment")
 
 st.write(
-    "Enter a sentence in Dholuo and let the model analyse it."
+    "Choose a sentence above, or enter your own text below."
 )
 
+# Load genuine examples from the canonical contribution dataset.
+# Each card displays the sentence itself; clicking it loads that sentence
+# into the input box so the visitor can run the classifier.
+def load_demo_examples():
+    import pandas as pd
+
+    csv_path = Path("data") / "contribution.csv"
+    if not csv_path.exists():
+        return {}
+
+    frame = pd.read_csv(csv_path)
+    columns = {str(column).strip().lower(): column for column in frame.columns}
+
+    text_column = next(
+        (columns[name] for name in ("text", "sentence", "dholuo_text", "utterance")
+         if name in columns),
+        None
+    )
+    label_column = next(
+        (columns[name] for name in ("label", "sentiment", "sentiment_label", "target")
+         if name in columns),
+        None
+    )
+
+    if text_column is None or label_column is None:
+        return {}
+
+    examples = {}
+    for _, row in frame.iterrows():
+        label_value = str(row[label_column]).strip().lower()
+        sentence = str(row[text_column]).strip()
+        if (
+            label_value in ("positive", "negative", "neutral")
+            and sentence
+            and sentence.lower() != "nan"
+        ):
+            examples.setdefault(label_value, sentence)
+
+    return examples
+
+
+demo_examples = load_demo_examples()
+
+if demo_examples:
+    st.markdown("### Start with a real sentence")
+    st.markdown(
+        '<div class="sample-intro">These examples are taken directly from the submitted dataset. '
+        'Choose a sentence to place it in the analyser, then select Analyse.</div>',
+        unsafe_allow_html=True
+    )
+
+    sample_columns = st.columns(3)
+    sample_details = [
+        ("positive", "Example 01", "✦"),
+        ("negative", "Example 02", "✦"),
+        ("neutral", "Example 03", "✦"),
+    ]
+
+    for column, (sample_key, sample_title, sample_icon) in zip(sample_columns, sample_details):
+        with column:
+            with st.container(border=True):
+                if sample_key in demo_examples:
+                    st.caption(f"{sample_icon} {sample_title}")
+                    st.markdown(f"_{demo_examples[sample_key]}_")
+                    st.button(
+                        "Use this sentence",
+                        key=f"load_{sample_key}_example",
+                        use_container_width=True,
+                        on_click=lambda value=demo_examples[sample_key]: st.session_state.update(
+                            {"user_text": value}
+                        )
+                    )
+                else:
+                    st.caption(sample_title)
+                    st.write("No example available.")
+                    st.button(
+                        "Example unavailable",
+                        key=f"missing_{sample_key}",
+                        disabled=True,
+                        use_container_width=True
+                    )
+
+
 user_text = st.text_area(
-    "Your Dholuo sentence",
+    "Enter a Dholuo sentence",
     placeholder="Type or paste a Dholuo sentence here...",
     height=130,
     key="user_text"
 )
 
 predict_clicked = st.button(
-    "Analyse sentence",
+    "Analyse sentiment",
     type="primary",
     use_container_width=True
 )
@@ -207,7 +359,7 @@ if predict_clicked:
 
                 st.markdown(
                     f"""
-                    <div class="result-card">
+                    <div class="result-card {str(label).lower()}">
                         <div class="small-note">Predicted sentiment</div>
                         <div class="result-label">{friendly_label}</div>
                     </div>
@@ -313,6 +465,8 @@ st.divider()
 with st.expander("About the model and methodology"):
 
     st.markdown("### Dataset")
+
+    st.metric("Dataset records", "300")
 
     st.write(
         "The final Dholuo sentiment dataset contains "
